@@ -1,0 +1,15 @@
+feature
+sent_mean
+sent_max
+sent_std
+sent_prop_gt_05
+sent_min
+sent_range
+sent_median
+sent_q25
+sent_q75
+sent_top2_mean
+sent_bottom2_mean
+sent_diff_mean
+sent_high_low_coexist
+n_sentences

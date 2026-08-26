@@ -1,0 +1,2 @@
+model,rows,ids_match,labels_match,all_split_test,finite_scores,auroc,pr_auc,auc_generation,auc_polish,auc_fusion
+Fast-DetectGPT-style,5393,True,True,True,5393,0.7704042710602643,0.9187046558758851,0.9889983505298596,0.7407975493586485,0.5781511663135747

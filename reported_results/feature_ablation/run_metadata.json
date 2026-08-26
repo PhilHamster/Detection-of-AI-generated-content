@@ -1,0 +1,12 @@
+{
+  "seed": 42,
+  "validation_size": 0.2,
+  "bootstrap_replicates": 2000,
+  "train_rows": 12640,
+  "test_rows": 5393,
+  "python": "3.11.15 | packaged by Anaconda, Inc. | (main, Mar 11 2026, 17:12:15) [MSC v.1942 64 bit (AMD64)]",
+  "platform": "Windows-10-10.0.19045-SP0",
+  "numpy": "2.4.5",
+  "pandas": "3.0.3",
+  "scikit_learn": "1.8.0"
+}

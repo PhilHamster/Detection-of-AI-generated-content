@@ -1,0 +1,47 @@
+# Python and editor files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.venv/
+venv/
+env/
+.idea/
+.vscode/
+.DS_Store
+
+# Raw and prepared datasets (download CHEAT separately)
+/CHEAT_DATASET/
+/cheat_unified.jsonl
+/cheat_unified.csv
+*.jsonl
+
+# Downloaded models, caches, and training checkpoints
+/model_cache/
+/roberta_results*/
+*.safetensors
+*.pt
+*.bin
+*.ckpt
+
+# Generated fusion, ablation, and baseline outputs
+/improved_fusion_results*/
+/sentence_fusion_results/
+/strict_sentence_baseline_results/
+/final_protocol_completion/
+/lr_results/
+/svm_results/
+/figures/
+/fastdetectgpt_scores*.csv
+/*_predictions.csv
+/train_features.csv
+/test_features.csv
+/test_predictions.csv
+/test_probabilities.csv
+*.pkl
+*.joblib
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak

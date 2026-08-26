@@ -1,0 +1,9 @@
+numpy==2.4.5
+pandas==3.0.3
+scikit-learn==1.8.0
+nltk==3.10.0
+torch==2.12.1
+transformers==5.12.1
+tqdm
+joblib
+matplotlib
